@@ -1,6 +1,6 @@
 # candidatos-multados
 
-**Metodologia da análise de dados da reportagem**
+### **Metodologia da análise de dados da reportagem ["Eleições 2020: candidatos têm mais de R$ 175 milhões em multas ambientais"](https://apublica.org/2020/11/eleicoes-2020-candidatos-tem-mais-de-r-175-milhoes-em-multas-ambientais)**
 
 *1) Download e limpeza dos dados de multas aplicadas pelo Ibama*
 
